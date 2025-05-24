@@ -12,6 +12,7 @@
     "@effector/next": "^0.7.1",
     "effector": "^23.3.0",
     "effector-react": "^23.3.0",
+    "framer-motion": "^12.12.1",
     "modern-normalize": "^3.0.1",
     "next": "15.3.1",
     "react": "^19.0.0",

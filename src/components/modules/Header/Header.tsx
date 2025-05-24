@@ -8,10 +8,8 @@ import { useLang } from '@/hooks/useLang';
 import Logo from '@/components/elements/Logo/Logo';
 import Menu from './Menu';
 
-import { openMenu } from '@/context/modals';
+import { openMenu, $menuIsOpen } from '@/context/modals';
 import { addOverflowHiddenToBody } from '@/lib/utils/common';
-
-import { $menuIsOpen } from '@/context/modals';
 
 const Header = () => {
   const { lang, translations } = useLang();
