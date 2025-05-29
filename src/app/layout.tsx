@@ -7,6 +7,7 @@ import 'modern-normalize/modern-normalize.css';
 import './globalStyles/globals.css';
 import './globalStyles/header.css';
 import './globalStyles/menu.css';
+import './globalStyles/mobile-navbar.css';
 
 export const metadata: Metadata = {
   title: 'Create Next App',
